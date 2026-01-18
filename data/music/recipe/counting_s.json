@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:coal",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "music:counting_stars",
+    "count": 1
+  }
+}

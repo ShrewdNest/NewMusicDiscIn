@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "qxhsz",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:coal",
+    "b": "minecraft:yellow_dye"
+  },
+  "result": {
+    "id": "music:qing_xu_hui_shou_zhan",
+    "count": 1
+  }
+}

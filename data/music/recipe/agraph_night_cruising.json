@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nightcruising",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:coal",
+    "b": "minecraft:red_dye"
+  },
+  "result": {
+    "id": "music:night_cruising",
+    "count": 1
+  }
+}

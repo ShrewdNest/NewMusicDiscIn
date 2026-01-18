@@ -1,0 +1,26 @@
+{
+  "qingxuhuishouzhan": {
+    "sounds": [
+      {
+        "name": "music:shi_luo_hua_yuan__-qing_xu_hui_shou_zhan_",
+        "stream": true
+      }
+    ]
+  },
+  "nightcruising": {
+    "sounds": [
+      {
+        "name": "music:night_cruising",
+        "stream": true
+      }
+    ]
+  },
+  "countingstars": {
+    "sounds": [
+      {
+        "name": "music:onerepublic-counting_stars_single_version",
+        "stream": true
+      }
+    ]
+  }
+}

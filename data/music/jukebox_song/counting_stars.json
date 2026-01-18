@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.music.counting_stars.desc"
+  },
+  "length_in_seconds": 258,
+  "sound_event": "music:countingstars"
+}

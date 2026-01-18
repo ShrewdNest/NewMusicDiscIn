@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.music.qing_xu_hui_shou_zhan.desc"
+  },
+  "length_in_seconds": 122,
+  "sound_event": "music:qingxuhuishouzhan"
+}
