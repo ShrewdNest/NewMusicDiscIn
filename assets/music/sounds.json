@@ -22,5 +22,45 @@
         "stream": true
       }
     ]
+  },
+  "mine": {
+    "sounds": [
+      {
+        "name": "music:illenium_phoebe_ryan-mine_illenium_remix",
+        "stream": true
+      }
+    ]
+  },
+  "autumn": {
+    "sounds": [
+      {
+        "name": "music:shi_san_shu_-autumnqiu__chun_yin_le_",
+        "stream": true
+      }
+    ]
+  },
+  "takemehand": {
+    "sounds": [
+      {
+        "name": "music:daishi_dance__u0026cecile_corbel-take_me_hand",
+        "stream": true
+      }
+    ]
+  },
+  "normalnomore": {
+    "sounds": [
+      {
+        "name": "music:tysm-normal_no_more_explicit",
+        "stream": true
+      }
+    ]
+  },
+  "fractures": {
+    "sounds": [
+      {
+        "name": "music:illenium_nevve-fractures",
+        "stream": true
+      }
+    ]
   }
 }

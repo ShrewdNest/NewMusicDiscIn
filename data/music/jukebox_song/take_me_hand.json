@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.music.take_me_hand.desc"
+  },
+  "length_in_seconds": 260,
+  "sound_event": "music:takemehand"
+}

@@ -8,5 +8,20 @@
   "item_group.music.music": "音乐",
   "subtitles.countingstars": "",
   "item.music.counting_stars": "Counting Stars",
-  "item.music.counting_stars.desc": "OneRepublic-Counting Stars (Single Version)"
+  "item.music.counting_stars.desc": "OneRepublic-Counting Stars (Single Version)",
+  "subtitles.mine": "",
+  "item.music.mine": "mine（music）",
+  "item.music.mine.desc": "ILLENIUM_Phoebe Ryan-Mine (Illenium Remix)",
+  "subtitles.autumn": "",
+  "item.music.autumn": "Autumn（纯音乐）",
+  "item.music.autumn.desc": "十三叔-Autumn（秋） (纯音乐)",
+  "subtitles.takemehand": "",
+  "item.music.take_me_hand": "Take Me Hand",
+  "item.music.take_me_hand.desc": "DAISHI DANCE、、u0026Cécile Corbel-Take Me Hand",
+  "subtitles.normalnomore": "",
+  "item.music.normal_no_more.desc": "TYSM-Normal No More (Explicit)",
+  "item.music.normal_no_more": "Normal No More",
+  "subtitles.fractures": "",
+  "item.music.fractures.desc": "ILLENIUM_Nevve-Fractures",
+  "item.music.fractures": "Fractures"
 }
