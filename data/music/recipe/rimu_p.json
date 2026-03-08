@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:coal",
+    "b": "minecraft:lapis_lazuli"
+  },
+  "result": {
+    "id": "music:rimu",
+    "count": 1
+  }
+}
