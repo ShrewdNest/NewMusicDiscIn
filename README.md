@@ -13,7 +13,8 @@ ILLENIUM_Phoebe Ryan-Mine (Illenium Remix)
 ILLENIUM_Nevve-Fractures  
 DAISHI DANCE、、u0026Cécile Corbel-Take Me Hand 
 
-2026.3.8增添新歌曲：（v1.2.0）
+2026.3.8增添新歌曲：
+（v1.2.0）
 易耀申-日暮
 
 图例：   
