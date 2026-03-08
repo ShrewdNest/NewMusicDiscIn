@@ -62,5 +62,13 @@
         "stream": true
       }
     ]
+  },
+  "rimu": {
+    "sounds": [
+      {
+        "name": "music:shi_wan_hui_a_-yi_yao_shen__ri_mu_",
+        "stream": true
+      }
+    ]
   }
 }
